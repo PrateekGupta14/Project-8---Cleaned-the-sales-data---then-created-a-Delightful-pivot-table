@@ -1,1 +1,0 @@
-# Project-8---Cleaned-the-sales-data---then-created-a-Delightful-pivot-table
